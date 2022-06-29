@@ -3,7 +3,7 @@
 Visit the Marconi garden _onlife_.
 
 ## Architecture
-[!architecture](./diagrams/architecture.png)
+![architecture](./diagrams/architecture.png)
 
 ## Pictures
 Miele, our mascotte.
