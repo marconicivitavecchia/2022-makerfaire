@@ -16,7 +16,6 @@ Our makerspace with Quest 2 in action.
 ![Quest 2](./img/quest.jpg)
 
 The VR Garden realized by our students.
-[VR Garden](https://drive.google.com/file/d/1CsIfhmmubFGT0FT8MzE9i3NcL0ogaM3_/view?usp=sharing)
 
 <iframe src="https://drive.google.com/file/d/1CsIfhmmubFGT0FT8MzE9i3NcL0ogaM3_/preview" width="640" height="480" allow="autoplay"></iframe>
 
