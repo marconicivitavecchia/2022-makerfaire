@@ -1,8 +1,8 @@
-# Marconi Maker Faire 2022
+# Marconi Maker Faire Rome 2022
 
-Visit the Marconi garden _onlife_.
+For this edition of the Maker Faire, the IIS Marconi Civitavecchia presents **"Project M.I.A.O."**.
 
-For this edition of the Maker Faire, the IIS Marconi Civitavecchia presents **"Project M.I.A.O."**. Following a path undertaken in recent years, our school presents a new project to integrate virtual reality, social networks, artificial intelligence and robotics with each other. In fact, we think that the future of the "metaverse" will not be a parallel reality where we will have alternative lives, but an environment closely connected with our lives and the real world, for an "onlife" experience. With this in mind, we believe that schools are the right place to experiment, innovate and make students aware of what lies ahead.
+Following a path undertaken in recent years, our school presents a new project to integrate virtual reality, social networks, artificial intelligence and robotics with each other. In fact, we think that the future of the "metaverse" will not be a parallel reality where we will have alternative lives, but an environment closely connected with our lives and the real world, for an "onlife" experience. With this in mind, we believe that schools are the right place to experiment, innovate and make students aware of what lies ahead.
 
 The project includes the following components:
 - the school garden reconstructed in virtual reality, navigable through the VRChat application, a virtual reality social platform; the garden will be accessible through Oculus Quest 2 headsets
