@@ -22,11 +22,6 @@ The attendance tracker display will be connected to an inexpensive and low energ
 The Quest 2 virtual reality headset is also connected to WiFi and uses the VRChat app to connect to a world created specifically by students. The world is built with Blender for modeling and Unity for the integration with VRChat, the communication with the MQTT broker and the dynamic aspects of the world.
 
 ## Pictures
-Miele, our mascotte (in the real world).
-![miele](./img/miele.jpg)
-
-<br>
-
 The UR3 robotics arm with the control unit on the left and the webcam on the right.
 ![UR3](./img/ur3.jpeg)
 
@@ -40,6 +35,13 @@ Our school's "makerspace" with Quest 2 in action.
 The garden of our school reconstructed in virtual reality by our students.
 
 <iframe src="https://drive.google.com/file/d/1CsIfhmmubFGT0FT8MzE9i3NcL0ogaM3_/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Miele, our mascotte (in the real world and 3D).
+![miele](./img/miele.jpg)
+![miele-3d](./img/miele-3d.jpeg)
+
+<small>Credits for the 3D model of the cat: "3d modelling my cat: Fripouille" (https://skfb.ly/6TKqH) by guillaume bolis is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).<small>
+<br>
 
 
 
